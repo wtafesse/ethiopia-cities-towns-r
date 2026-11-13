@@ -1,0 +1,7 @@
+.Rhistory
+.RData
+.Rproj.user/
+data/*.csv
+data/*.geojson
+data/failed_tiles.txt
+!data/.gitkeep
